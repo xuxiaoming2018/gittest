@@ -2,6 +2,6 @@ package main
 import "fmt"
 func main(){
 
-fmt.Print("aaaa")
+fmt.Print("bbbbb")
 
 }
